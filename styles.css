@@ -1021,10 +1021,12 @@ img {
   background-color: rgb(22 23 27 / var(--tw-bg-opacity));
 }
 .he {
-  background-image: url(https://tejxv.github.io/ResearchByLearning/images/patternBottom.webp);
+  background-image: url("/images/patternBottom.webp");
+  background-position: center;
+  background-size: 200%;
 }
 .ie {
-  background-image: url(https://tejxv.github.io/ResearchByLearning/images/patternTop.webp);
+  background-image: url("/images/patternTop.webp");
 }
 .je {
   background-size: cover;
