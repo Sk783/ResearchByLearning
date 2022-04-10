@@ -897,7 +897,7 @@ img {
   margin-bottom: 0.5rem;
 }
 .kb {
-  margin-top: 1rem;
+  margin-top: 2rem;
 }
 .nb {
   display: flex;
@@ -915,7 +915,7 @@ img {
   height: 100vh;
 }
 .ub {
-  height: 3rem;
+  height: 2.2rem;
 }
 .vb {
   height: 1.5rem;
@@ -933,7 +933,7 @@ img {
   width: 100%;
 }
 .fc {
-  width: 3rem;
+  width: 4rem;
 }
 .gc {
   width: 1.5rem;
@@ -1041,7 +1041,7 @@ img {
 }
 .be {
   --tw-bg-opacity: 1;
-  background-color: rgb(226 232 240 / var(--tw-bg-opacity));
+  background-color: rgb(255 235 205 / var(--tw-bg-opacity));
 }
 .ce {
   --tw-bg-opacity: 1;
@@ -1161,7 +1161,8 @@ img {
   line-height: 1.25rem;
 }
 .bg {
-  font-size: 0.75rem;
+  padding: 0.2em 0 0.4em 0;
+  font-size: 3.05rem;
   line-height: 1rem;
 }
 .cg {
